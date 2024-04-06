@@ -3,4 +3,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 # Project
 
-[Проект: Игра - угадай число](https://github.com/kotleha/Game)
+[Проект: Игра - угадай число][def]
+
+[def]: https://github.com/kotleha/Game
